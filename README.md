@@ -1,4 +1,4 @@
 # hello-world
 My first GIT project
 
-My name is Ina
+This seems to be a nice tool
